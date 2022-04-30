@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Albums</string>
+    <string name="profile">Profile</string>
+    <string name="my_albums">My Albums</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="photo">Photo</string>
+    <string name="search_in_images">Search in images</string>
+    <string name="hey_see_my_photo_through">Hey see my photo through : </string>
 </resources>
